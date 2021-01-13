@@ -29,6 +29,7 @@ function draw() {
       food -= 1;
       writeStock(food);
       dog.addImage("dog",happyDogImg);
+      // comment
     }
   }
 
